@@ -2,6 +2,15 @@
 
 ## tr-resize directive
 Add it to any element to have the height by percentage of a relative DOM object
+---
+---
+---
+
+
+
+
+
+
 
 
 ### Add the module to your dependancy injection in your app
