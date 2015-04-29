@@ -1,8 +1,10 @@
 # TRAILim-angularjs-styles-module
 
-## tr-resize angularjs directive
+## tr-resize angularjs directive 
 
-Add it to any element to have the height by percentage of a relative DOM object
+Add it to any element to set the height as percentage of a relative DOM object
+
+
 ---
 ---
 ---
@@ -10,7 +12,10 @@ Add it to any element to have the height by percentage of a relative DOM object
 <br/><br/>
 
 
+
+
 ### Add the module to your dependancy injection in your app
+
 \angular.module("ThuntApp",['ngTrailimStyles']);
 
 <br/><br/>
