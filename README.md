@@ -1,6 +1,7 @@
 # TRAILim-angularjs-styles-module
 
-## tr-resize directive
+## tr-resize angularjs directive
+
 Add it to any element to have the height by percentage of a relative DOM object
 ---
 ---
