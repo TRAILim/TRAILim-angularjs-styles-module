@@ -4,7 +4,6 @@
 
 Add it to any element to set the height as percentage of a relative DOM object
 
-
 ---
 ---
 ---

@@ -1,5 +1,6 @@
 /**
  * Created by shaiyerushalmi on 4/29/15.
+ * 
  */
 (function(window, angular, undefined) {
     'use strict';
